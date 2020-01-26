@@ -1,6 +1,6 @@
-CREATE DATABASE burger_bd;
+CREATE DATABASE burger_db;
 
-USE burger_bd;
+USE burger_db;
 
 -- Create the table plans.
 CREATE TABLE Burgers (
